@@ -423,9 +423,9 @@ This project is created for educational purposes.
 
 ## 👨‍💻 Author
 
-**Your Name**  
-**Course**: 5th Semester Project  
-**Year**: 2024
+** Deepak **  
+**Btech Cse **: 5th Semester Project  
+**Year**: 2026
 
 ---
 
